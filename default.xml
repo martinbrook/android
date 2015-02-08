@@ -388,11 +388,11 @@
   <project name="mer-hybris/android_device_lge_hammerhead" path="device/lge/hammerhead" revision="hybris-11.0" />
   <project name="mer-hybris/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" revision="hybris-11.0" />
   
-  <project name="CyanogenMod/android_device_motorola_peregrine" path="device/motorola/peregrine" remote="github" />
-  <project name="CyanogenMod/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" />
-  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
-  <project name="CyanogenMod/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" />
-  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" /> 
+  <project name="CyanogenMod/android_device_motorola_peregrine" path="device/motorola/peregrine" remote="github" revision="cm-11.0 />
+  <project name="CyanogenMod/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" revision="cm-11.0/>
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-11.0/>
+  <project name="CyanogenMod/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="cm-11.0/>
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-11.0/> 
   
 
 </manifest>
